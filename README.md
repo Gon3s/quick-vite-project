@@ -27,4 +27,5 @@ All the files are generate to `/dist` folder
 ## Contact
 
 Github : https://github.com/Gon3s
+
 Twitter : https://twitter.com/Cuoq_Kevin
